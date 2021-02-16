@@ -1,0 +1,73 @@
+h3{text-align: center;
+    color: olive;}
+
+h2{color: maroon;}
+ul{
+list-style-position: inside;
+text-align: center;}
+li{text-align: center;}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #DCFFFF;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+body{
+    background-color: #CDFFFF;
+}
+.title{
+    font-size: 70px;
+    text-align: center;
+    color: teal;
+    font-family: 'Times New Roman', Times, serif;
+}
+.intro{
+    color: whitesmoke;
+}
+.h2{
+    font-size: 50px;
+    color: maroon;
+    text-align: center;
+
+}
+body {
+    margin: 0px;
+}
+
+.facts{
+    text-align: center;
+    display: flex;
+    justify-content: end;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin: 20px;
+
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.bodyimg{
+    position: relative;
+    margin-bottom: 40px;
+}
+.about{
+    margin-right: 30px;
+    padding-top: 20px;
+}
+.drop{
+    padding-top: 20px; 
+    margin-left: 10px;
+}
+.origami{
+    padding: 30px;
+    margin: 25px;
+}
